@@ -1,0 +1,46 @@
+body {
+  background-color: rgba(212, 240, 241, 0.842);
+  margin: 20px;
+  font-family: "Gotu", sans-serif;
+}
+
+#lista-productos {
+  list-style-type: circle;
+}
+
+h1 {
+  color: rgb(243, 91, 3);
+  text-align: center;
+}
+
+hr {
+  border: dotted rgb(233, 116, 7) 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 10px 600px;
+}
+
+p {
+  margin: 20px;
+}
+
+#email {
+  margin-left: 0px;
+}
+
+#figcaption {
+  margin-left: 35px;
+}
+#heading3 {
+  color: rgb(243, 91, 3);
+  margin-left: 25px;
+}
+
+#heading4 {
+  color: rgb(243, 91, 3);
+  margin: 20px 0px;
+}
+
+.dt {
+  margin-left: 15px;
+}
